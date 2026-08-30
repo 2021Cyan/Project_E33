@@ -6,9 +6,9 @@ Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 멀티플레이 턴�
 
 > 제가 작성한 코드는 [`Workspace/CYW`](./Workspace/CYW)에 정리되어 있습니다.
 
-## 데모 및 발표 자료
+## 데모 및 PPT
 
-- 발표 자료 (PPT): 
+- PPT : 
 - 시연 영상 :
 
 ## 팀원 소개
