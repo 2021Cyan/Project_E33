@@ -1,15 +1,13 @@
 # Project E33 
 
-Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 멀티플레이 턴제 전투 프로젝트입니다.
+<img width="426" height="240" alt="SingleCounter" src="https://github.com/user-attachments/assets/d1ae5bfe-42b3-4ec1-872b-74321d8a711c" />
+<img width="426" height="240" alt="GroupCounter" src="https://github.com/user-attachments/assets/c31eacc9-7027-42a0-90da-7b49407e2eff" />
 
----
+Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 프로젝트입니다.
 
 > 제가 작성한 코드는 [`Workspace/CYW`](./Workspace/CYW)에 정리되어 있습니다.
 
-## 데모 및 PPT
-
-- PPT : 
-- 시연 영상 :
+---
 
 ## 팀원 소개
 
@@ -36,4 +34,4 @@ Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 멀티플레이 턴�
 ## 참고 ⚠
 
 - 이 저장소는 에셋을 제외한 코드 전용 저장소입니다. 따라서 **Unreal에서 실행하거나 패키징할 수 없습니다**.
-- 실제 동작 화면과 코드에 대한 자세한 설명은 **페이지 상단 시연 영상과 PPT**를 참고해 주세요.
+- 실제 동작 화면과 설명은 **페이지 상단 포트폴리오**를 참고해 주세요.
