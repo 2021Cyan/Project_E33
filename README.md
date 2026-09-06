@@ -7,6 +7,7 @@ Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 프로젝트입니�
 
 > 제가 작성한 코드는 [`Workspace/CYW`](./Workspace/CYW)에 정리되어 있습니다.
 
+[포트폴리오](https://docs.google.com/presentation/d/1t6pdc44MSV_Rl5hgDiZphB_9-ntU9hP2Lei1vnxjCWg/edit?usp=sharing)
 ---
 
 ## 팀원 소개
