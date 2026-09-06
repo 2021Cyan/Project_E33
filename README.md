@@ -1,7 +1,7 @@
 # Project E33 
 
-<img width="426" height="240" alt="SingleCounter" src="https://github.com/user-attachments/assets/d1ae5bfe-42b3-4ec1-872b-74321d8a711c" />
-<img width="426" height="240" alt="GroupCounter" src="https://github.com/user-attachments/assets/c31eacc9-7027-42a0-90da-7b49407e2eff" />
+<img width="640" height="360" alt="SingleCounter" src="https://github.com/user-attachments/assets/d1ae5bfe-42b3-4ec1-872b-74321d8a711c" />
+<img width="640" height="360" alt="GroupCounter" src="https://github.com/user-attachments/assets/c31eacc9-7027-42a0-90da-7b49407e2eff" />
 
 Unreal Engine 5.3 기반 Clair Obscur: Expedition 33 모작 프로젝트입니다.
 
